@@ -1,0 +1,60 @@
+{
+    "groupOffice": "Office",
+    "groupFamily": "Family",
+    "Family": [
+        {
+            "data": {
+                "firstname": "Emma",
+                "lastname": "Charles",
+                "birth": "15/5/1985",
+                "phone": "0812345678",
+                "email": "user@gmail.com",
+                "url": "www.google.com",
+                "group": "Family",
+                "nickname": "Mom"
+            },
+            "contact": "Mom"
+        },
+        {
+            "data": {
+                "firstname": "Boris",
+                "lastname": "Charles",
+                "birth": "22/8/1980",
+                "phone": "0812345678",
+                "email": "user@gmail.com",
+                "url": "www.google.com",
+                "group": "Family",
+                "nickname": "Dad"
+            },
+            "contact": "Dad"
+        },
+        {
+            "data": {
+                "firstname": "Lisa",
+                "lastname": "Charles",
+                "birth": "15/5/1985",
+                "phone": "0812345678",
+                "email": "user@gmail.com",
+                "url": "www.google.com",
+                "group": "Family",
+                "nickname": "Little Sister"
+            },
+            "contact": "Little Sister"
+        }
+    ],
+    "Office": [
+        {
+            "data": {
+                "firstname": "Avery",
+                "lastname": "Blake",
+                "birth": "15/5/1985",
+                "phone": "0812345678",
+                "email": "user@gmail.com",
+                "url": "www.google.com",
+                "group": "Office",
+                "nickname": "ABC"
+            },
+            "contact": "ABC"
+        }
+    ]
+}
